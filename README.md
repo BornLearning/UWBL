@@ -1,4 +1,4 @@
-![cscuwm2](https://user-images.githubusercontent.com/12015008/32648679-ce37a220-c5ab-11e7-9b74-72e097f44c0c.jpg)
+![uwmcsc3](https://user-images.githubusercontent.com/12015008/32648823-6b22621e-c5ac-11e7-89d6-9c556f3abac7.jpg)
 
 ### Data Collection and Analysis framework for United Way Mumbai Born Learning Campaign
 
