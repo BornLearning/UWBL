@@ -1,4 +1,5 @@
-<img width="155" alt="uwmbl" src="https://user-images.githubusercontent.com/12015008/32647802-f68607fc-c5a7-11e7-808d-5d9a8e74bfb4.png">
+<img width="424" alt="uwmbl2" src="https://user-images.githubusercontent.com/12015008/32648530-0b045d5c-c5ab-11e7-84c8-86a95898b74d.png">
+
 ### Data Collection and Analysis framework for United Way Mumbai Born Learning Campaign
 
 This is an [IBM Corporate Service Corps](https://www.ibm.com/ibm/responsibility/corporateservicecorps/) pro bono consulting project performed by three IBMers in collaboration with United Way Mumbai executive team. Please watch the attached video presentation to know more about this project. 
