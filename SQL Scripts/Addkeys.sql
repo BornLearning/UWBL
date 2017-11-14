@@ -78,3 +78,13 @@ ADD CONSTRAINT `ChildID`
 ADD CONSTRAINT `IndicatorID`
   FOREIGN KEY (`indicatorID`)
   REFERENCES `uwmdb`.`Indicators` (`indicatorID`);
+ALTER TABLE `uwmdb`.`Centers` 
+CHANGE COLUMN `geolocation` `geolocation` VARCHAR(100) NULL DEFAULT NULL ;
+
+ALTER TABLE `uwmdb`.`Centers` 
+CHANGE COLUMN `pincode` `pincode` INT NOT NULL ;
+
+ALTER TABLE `uwmdb`.`Facilitators` 
+CHANGE COLUMN `phone` `phone` VARCHAR(20) NOT NULL ;
+ALTER TABLE `uwmdb`.`Indicators` 
+CHANGE COLUMN `subCategory` `subCategory` VARCHAR(500) NULL ;
